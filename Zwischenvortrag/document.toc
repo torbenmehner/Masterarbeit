@@ -1,0 +1,70 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {ngerman}{}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {1}{Motivation}{3}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {1}{1}{Stand der Technik}{4}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {1}{2}{Autonomes Boot}{5}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {1}{3}{SEC-Bike}{6}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {1}{4}{Grundlagen}{7}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {2}{N\IeC {\"o}tige Hardware}{8}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {2}{1}{\IeC {\"U}berblick}{9}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {2}{2}{Selbstlokalisation}{10}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {2}{3}{Kollisionsvermeidung}{11}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {2}{4}{Recheneinheiten}{12}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {2}{5}{Gemeinsamkeiten}{13}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {3}{Softwareplanung}{14}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {3}{1}{Betriebssystem}{15}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {3}{2}{Aufgaben}{19}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {4}{Hardwarearchitektur}{21}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {4}{1}{Recheneinheiten}{22}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {4}{2}{Sensoren}{23}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {4}{3}{Aktoren}{24}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {4}{4}{Debug- und Steuer-Optionen}{25}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {4}{5}{Stromversorgung}{26}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {4}{6}{Mikrocontroller}{27}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {4}{7}{\IeC {\"U}bersicht}{29}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {5}{Softwarearchitektur}{30}{0}{5}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {5}{1}{Anwendungsfall Boot}{31}{0}{5}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {5}{2}{Anwendungsfall SEC-Bike}{32}{0}{5}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {5}{3}{Giant Gecko}{33}{0}{5}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {5}{4}{Mighty Gecko}{34}{0}{5}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {6}{Aktueller Stand}{35}{0}{6}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {6}{1}{Hardware}{36}{0}{6}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {6}{2}{Software}{37}{0}{6}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {6}{3}{GANTT-Diagramm}{38}{0}{6}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {7}{Aussicht}{39}{0}{7}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {7}{1}{Ziele}{40}{0}{7}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {7}{2}{Verwendung}{41}{0}{7}

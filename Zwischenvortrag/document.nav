@@ -1,0 +1,307 @@
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {1}{1}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {0}{0}{2}{2/2}{}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {2}{2}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@sectionpages {1}{2}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {1}{2}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\sectionentry {1}{Motivation}{3}{Motivation}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {1}{0}{1}{3/3}{}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {3}{3}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {3}{3}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionentry {0}{1}{1}{4}{Stand der Technik}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {1}{1}{1}{4/4}{Stand der Technik}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {4}{4}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {4}{4}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionentry {0}{1}{2}{5}{Autonomes Boot}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {1}{2}{1}{5/5}{Autonomes Boot}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {5}{5}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {5}{5}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionentry {0}{1}{3}{6}{SEC-Bike}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {1}{3}{1}{6/6}{SEC-Bike}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {6}{6}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {6}{6}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionentry {0}{1}{4}{7}{Grundlagen}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {1}{4}{1}{7/7}{Grundlagen}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {7}{7}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@sectionpages {3}{7}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {7}{7}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\sectionentry {2}{N\IeC {\"o}tige Hardware}{8}{N\IeC {\"o}tige Hardware}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {2}{0}{1}{8/8}{}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {8}{8}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {8}{8}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionentry {0}{2}{1}{9}{\IeC {\"U}berblick}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {2}{1}{1}{9/9}{\IeC {\"U}berblick}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {9}{9}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {9}{9}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionentry {0}{2}{2}{10}{Selbstlokalisation}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {2}{2}{1}{10/10}{Selbstlokalisation}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {10}{10}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {10}{10}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionentry {0}{2}{3}{11}{Kollisionsvermeidung}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {2}{3}{1}{11/11}{Kollisionsvermeidung}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {11}{11}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {11}{11}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionentry {0}{2}{4}{12}{Recheneinheiten}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {2}{4}{1}{12/12}{Recheneinheiten}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {12}{12}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {12}{12}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionentry {0}{2}{5}{13}{Gemeinsamkeiten}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {2}{5}{1}{13/13}{Gemeinsamkeiten}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {13}{13}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@sectionpages {8}{13}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {13}{13}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\sectionentry {3}{Softwareplanung}{14}{Softwareplanung}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {3}{0}{1}{14/14}{}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {14}{14}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {14}{14}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionentry {0}{3}{1}{15}{Betriebssystem}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {3}{1}{1}{15/18}{Betriebssystem}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {15}{18}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {15}{18}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionentry {0}{3}{2}{19}{Aufgaben}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {3}{2}{1}{19/19}{Aufgaben}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {19}{19}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {3}{2}{2}{20/20}{Aufgaben}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {20}{20}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@sectionpages {14}{20}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {19}{20}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\sectionentry {4}{Hardwarearchitektur}{21}{Hardwarearchitektur}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {4}{0}{1}{21/21}{}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {21}{21}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {21}{21}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionentry {0}{4}{1}{22}{Recheneinheiten}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {4}{1}{1}{22/22}{Recheneinheiten}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {22}{22}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {22}{22}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionentry {0}{4}{2}{23}{Sensoren}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {4}{2}{1}{23/23}{Sensoren}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {23}{23}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {23}{23}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionentry {0}{4}{3}{24}{Aktoren}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {4}{3}{1}{24/24}{Aktoren}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {24}{24}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {24}{24}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionentry {0}{4}{4}{25}{Debug- und Steuer-Optionen}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {4}{4}{1}{25/25}{Debug- und Steuer-Optionen}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {25}{25}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {25}{25}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionentry {0}{4}{5}{26}{Stromversorgung}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {4}{5}{1}{26/26}{Stromversorgung}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {26}{26}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {26}{26}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionentry {0}{4}{6}{27}{Mikrocontroller}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {4}{6}{1}{27/27}{Mikrocontroller}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {27}{27}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {4}{6}{2}{28/28}{Mikrocontroller}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {28}{28}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {27}{28}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionentry {0}{4}{7}{29}{\IeC {\"U}bersicht}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {4}{7}{1}{29/29}{\IeC {\"U}bersicht}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {29}{29}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@sectionpages {21}{29}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {29}{29}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\sectionentry {5}{Softwarearchitektur}{30}{Softwarearchitektur}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {5}{0}{1}{30/30}{}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {30}{30}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {30}{30}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionentry {0}{5}{1}{31}{Anwendungsfall Boot}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {5}{1}{1}{31/31}{Anwendungsfall Boot}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {31}{31}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {31}{31}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionentry {0}{5}{2}{32}{Anwendungsfall SEC-Bike}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {5}{2}{1}{32/32}{Anwendungsfall SEC-Bike}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {32}{32}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {32}{32}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionentry {0}{5}{3}{33}{Giant Gecko}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {5}{3}{1}{33/33}{Giant Gecko}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {33}{33}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {33}{33}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionentry {0}{5}{4}{34}{Mighty Gecko}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {5}{4}{1}{34/34}{Mighty Gecko}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {34}{34}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@sectionpages {30}{34}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {34}{34}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\sectionentry {6}{Aktueller Stand}{35}{Aktueller Stand}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {6}{0}{1}{35/35}{}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {35}{35}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {35}{35}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionentry {0}{6}{1}{36}{Hardware}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {6}{1}{1}{36/36}{Hardware}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {36}{36}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {36}{36}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionentry {0}{6}{2}{37}{Software}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {6}{2}{1}{37/37}{Software}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {37}{37}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {37}{37}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionentry {0}{6}{3}{38}{GANTT-Diagramm}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {6}{3}{1}{38/38}{GANTT-Diagramm}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {38}{38}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@sectionpages {35}{38}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {38}{38}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\sectionentry {7}{Aussicht}{39}{Aussicht}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {7}{0}{1}{39/39}{}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {39}{39}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {39}{39}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionentry {0}{7}{1}{40}{Ziele}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {7}{1}{1}{40/40}{Ziele}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {40}{40}}
+\headcommand {\beamer@partpages {1}{41}}
+\headcommand {\beamer@subsectionpages {41}{41}}
+\headcommand {\beamer@sectionpages {39}{41}}
+\headcommand {\beamer@documentpages {41}}
+\headcommand {\gdef \inserttotalframenumber {30}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {40}{40}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionentry {0}{7}{2}{41}{Verwendung}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {7}{2}{1}{41/41}{Verwendung}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {41}{41}}

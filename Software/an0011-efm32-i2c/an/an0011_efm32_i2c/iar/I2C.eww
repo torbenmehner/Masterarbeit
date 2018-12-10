@@ -1,0 +1,12 @@
+<?xml version ="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\I2C_Tempsens.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\I2C_Master_Slave.ewp</path>
+  </project>
+
+  <batchBuild/>
+</workspace>

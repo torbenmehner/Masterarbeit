@@ -1,0 +1,34 @@
+\BOOKMARK [2][]{Outline0.1}{Motivation}{}% 1
+\BOOKMARK [3][]{Outline0.1.1.4}{Stand der Technik}{Outline0.1}% 2
+\BOOKMARK [3][]{Outline0.1.2.5}{Autonomes Boot}{Outline0.1}% 3
+\BOOKMARK [3][]{Outline0.1.3.6}{SEC-Bike}{Outline0.1}% 4
+\BOOKMARK [3][]{Outline0.1.4.7}{Grundlagen}{Outline0.1}% 5
+\BOOKMARK [2][]{Outline0.2}{N\366tige Hardware}{}% 6
+\BOOKMARK [3][]{Outline0.2.1.9}{\334berblick}{Outline0.2}% 7
+\BOOKMARK [3][]{Outline0.2.2.10}{Selbstlokalisation}{Outline0.2}% 8
+\BOOKMARK [3][]{Outline0.2.3.11}{Kollisionsvermeidung}{Outline0.2}% 9
+\BOOKMARK [3][]{Outline0.2.4.12}{Recheneinheiten}{Outline0.2}% 10
+\BOOKMARK [3][]{Outline0.2.5.13}{Gemeinsamkeiten}{Outline0.2}% 11
+\BOOKMARK [2][]{Outline0.3}{Softwareplanung}{}% 12
+\BOOKMARK [3][]{Outline0.3.1.15}{Betriebssystem}{Outline0.3}% 13
+\BOOKMARK [3][]{Outline0.3.2.19}{Aufgaben}{Outline0.3}% 14
+\BOOKMARK [2][]{Outline0.4}{Hardwarearchitektur}{}% 15
+\BOOKMARK [3][]{Outline0.4.1.22}{Recheneinheiten}{Outline0.4}% 16
+\BOOKMARK [3][]{Outline0.4.2.23}{Sensoren}{Outline0.4}% 17
+\BOOKMARK [3][]{Outline0.4.3.24}{Aktoren}{Outline0.4}% 18
+\BOOKMARK [3][]{Outline0.4.4.25}{Debug- und Steuer-Optionen}{Outline0.4}% 19
+\BOOKMARK [3][]{Outline0.4.5.26}{Stromversorgung}{Outline0.4}% 20
+\BOOKMARK [3][]{Outline0.4.6.27}{Mikrocontroller}{Outline0.4}% 21
+\BOOKMARK [3][]{Outline0.4.7.29}{\334bersicht}{Outline0.4}% 22
+\BOOKMARK [2][]{Outline0.5}{Softwarearchitektur}{}% 23
+\BOOKMARK [3][]{Outline0.5.1.31}{Anwendungsfall Boot}{Outline0.5}% 24
+\BOOKMARK [3][]{Outline0.5.2.32}{Anwendungsfall SEC-Bike}{Outline0.5}% 25
+\BOOKMARK [3][]{Outline0.5.3.33}{Giant Gecko}{Outline0.5}% 26
+\BOOKMARK [3][]{Outline0.5.4.34}{Mighty Gecko}{Outline0.5}% 27
+\BOOKMARK [2][]{Outline0.6}{Aktueller Stand}{}% 28
+\BOOKMARK [3][]{Outline0.6.1.36}{Hardware}{Outline0.6}% 29
+\BOOKMARK [3][]{Outline0.6.2.37}{Software}{Outline0.6}% 30
+\BOOKMARK [3][]{Outline0.6.3.38}{GANTT-Diagramm}{Outline0.6}% 31
+\BOOKMARK [2][]{Outline0.7}{Aussicht}{}% 32
+\BOOKMARK [3][]{Outline0.7.1.40}{Ziele}{Outline0.7}% 33
+\BOOKMARK [3][]{Outline0.7.2.41}{Verwendung}{Outline0.7}% 34
