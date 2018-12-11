@@ -67,7 +67,7 @@ für autonome Kleinfahrzeuge}
 %% --------------------------------
 
 %% Use biber instead of BibTeX, see README
-\usepackage[citestyle=numeric,style=numeric,backend=biber]{biblatex}
+\usepackage[citestyle=numeric,style=numeric,backend=bibtex,sorting=none]{biblatex}
 \addbibresource{thesis.bib}
 
 %% ====================================
@@ -83,12 +83,12 @@ für autonome Kleinfahrzeuge}
 \setpdf
 
 %% Set the title
-\maketitle
+%\maketitle
 
 %% The Preamble begins here
 \frontmatter
 
-\input{sections/declaration.tex}
+%\input{sections/declaration.tex}
 
 \setcounter{page}{1}
 \pagenumbering{roman}
@@ -105,15 +105,15 @@ für autonome Kleinfahrzeuge}
 %% The text is included from the following files:
 %% - sections/abstract
 
-\includeabstract
+%\includeabstract
 
 %% ------------------------
 %% |   Table of Contents  |
 %% ------------------------
-\tableofcontents
+%\tableofcontents
 
-\listoffigures
-\listoftables
+%\listoffigures
+%\listoftables
 
 %% -----------------
 %% |   Main part   |
