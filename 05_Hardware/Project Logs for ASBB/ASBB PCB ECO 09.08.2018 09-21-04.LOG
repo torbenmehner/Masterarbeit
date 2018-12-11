@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetIC601_75 Pin=IC601-80
+Removed Pin From Net: NetName=NetIC601_75 Pin=P501-2
+Removed Pin From Net: NetName=NetIC601_75 Pin=R503-2
+Added Pin To Net: NetName=NetIC601_80 Pin=IC601-80
+Added Pin To Net: NetName=NetIC601_80 Pin=P501-2
+Added Pin To Net: NetName=NetIC601_80 Pin=R503-2
+Added Net: Name=NetIC601_80

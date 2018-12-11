@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetIC901_19 Pin=P901-1
+Removed Pin From Net: NetName=NetIC901_20 Pin=P901-2
+Removed Pin From Net: NetName=NetIC901_21 Pin=P901-3
+Removed Pin From Net: NetName=GND Pin=P901-4
+Removed Member From Class: ClassName=U_ASBB_MightyGecko Member=P901

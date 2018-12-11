@@ -1,0 +1,199 @@
+Removed Pin From Net: NetName=NetB501_10 Pin=B501-10
+Removed Pin From Net: NetName=NetB501_11 Pin=B501-11
+Removed Pin From Net: NetName=5V Pin=C801-1
+Removed Pin From Net: NetName=GND Pin=C801-2
+Removed Pin From Net: NetName=GND Pin=C802-1
+Removed Pin From Net: NetName=3.3V Pin=C802-2
+Removed Pin From Net: NetName=GND Pin=C803-1
+Removed Pin From Net: NetName=3.3V Pin=C803-2
+Removed Pin From Net: NetName=GND Pin=C804-2
+Removed Pin From Net: NetName=GND Pin=C805-2
+Removed Pin From Net: NetName=GND Pin=C806-1
+Removed Pin From Net: NetName=3.3V Pin=C806-2
+Removed Pin From Net: NetName=GND Pin=C807-1
+Removed Pin From Net: NetName=3.3V Pin=C807-2
+Removed Pin From Net: NetName=GND Pin=C808-1
+Removed Pin From Net: NetName=5V Pin=C808-2
+Removed Pin From Net: NetName=GND Pin=C809-2
+Removed Pin From Net: NetName=GND Pin=C810-2
+Removed Pin From Net: NetName=5V Pin=J801-1
+Removed Pin From Net: NetName=3.3V Pin=J801-2
+Removed Pin From Net: NetName=NetIC901_21 Pin=J801-3
+Removed Pin From Net: NetName=NetIC901_19 Pin=J801-4
+Removed Pin From Net: NetName=NetIC901_20 Pin=J801-5
+Removed Pin From Net: NetName=GND Pin=J801-6
+Removed Pin From Net: NetName=NetIC901_29 Pin=J802-2
+Removed Pin From Net: NetName=NetIC901_28 Pin=J802-4
+Removed Pin From Net: NetName=NetIC901_59 Pin=J802-5
+Removed Pin From Net: NetName=NetIC901_53 Pin=J802-6
+Removed Pin From Net: NetName=NetIC901_60 Pin=J802-7
+Removed Pin From Net: NetName=NetIC901_55 Pin=J802-8
+Removed Pin From Net: NetName=NetIC601_28 Pin=P604-1
+Removed Pin From Net: NetName=NetIC601_29 Pin=P604-2
+Removed Pin From Net: NetName=NetIC601_27 Pin=P604-3
+Removed Pin From Net: NetName=NetIC601_1 Pin=P604-9
+Removed Pin From Net: NetName=GND Pin=P604-11
+Removed Pin From Net: NetName=GND Pin=P604-13
+Removed Pin From Net: NetName=GND Pin=P604-14
+Removed Pin From Net: NetName=GND Pin=P604-15
+Removed Pin From Net: NetName=GND Pin=P604-16
+Removed Pin From Net: NetName=3.3V Pin=U801-1
+Removed Pin From Net: NetName=GND Pin=U801-10
+Removed Pin From Net: NetName=NetIC901_21 Pin=U801-14
+Removed Pin From Net: NetName=NetIC901_19 Pin=U801-15
+Removed Pin From Net: NetName=NetIC901_20 Pin=U801-16
+Removed Pin From Net: NetName=NetIC901_32 Pin=U801-18
+Removed Pin From Net: NetName=3.3V Pin=U801-19
+Removed Pin From Net: NetName=GND Pin=U801-26
+Removed Pin From Net: NetName=5V Pin=U801-27
+Removed Pin From Net: NetName=3.3V Pin=U802-1
+Removed Pin From Net: NetName=NetIC901_4 Pin=U802-5
+Removed Pin From Net: NetName=GND Pin=U802-10
+Removed Pin From Net: NetName=NetIC901_21 Pin=U802-14
+Removed Pin From Net: NetName=NetIC901_19 Pin=U802-15
+Removed Pin From Net: NetName=NetIC901_20 Pin=U802-16
+Removed Pin From Net: NetName=NetIC901_32 Pin=U802-18
+Removed Pin From Net: NetName=3.3V Pin=U802-19
+Removed Pin From Net: NetName=GND Pin=U802-26
+Removed Pin From Net: NetName=5V Pin=U802-27
+Removed Pin From Net: NetName=GND Pin=Y801-1
+Removed Pin From Net: NetName=GND Pin=Y801-3
+Removed Pin From Net: NetName=GND Pin=Y802-1
+Removed Pin From Net: NetName=GND Pin=Y802-3
+Removed Member From Class: ClassName=U_ASBB_MCP25625 Member=C801
+Removed Member From Class: ClassName=U_ASBB_MCP25625 Member=C802
+Removed Member From Class: ClassName=U_ASBB_MCP25625 Member=C803
+Removed Member From Class: ClassName=U_ASBB_MCP25625 Member=C804
+Removed Member From Class: ClassName=U_ASBB_MCP25625 Member=C805
+Removed Member From Class: ClassName=U_ASBB_MCP25625 Member=C806
+Removed Member From Class: ClassName=U_ASBB_MCP25625 Member=C807
+Removed Member From Class: ClassName=U_ASBB_MCP25625 Member=C808
+Removed Member From Class: ClassName=U_ASBB_MCP25625 Member=C809
+Removed Member From Class: ClassName=U_ASBB_MCP25625 Member=C810
+Removed Member From Class: ClassName=U_ASBB_MCP25625 Member=J801
+Removed Member From Class: ClassName=U_ASBB_MCP25625 Member=J802
+Removed Member From Class: ClassName=U_ASBB_GiantGecko Member=P604
+Removed Member From Class: ClassName=U_ASBB_MCP25625 Member=R802
+Removed Member From Class: ClassName=U_ASBB_MCP25625 Member=U801
+Removed Member From Class: ClassName=U_ASBB_MCP25625 Member=U802
+Removed Member From Class: ClassName=U_ASBB_MCP25625 Member=Y801
+Removed Member From Class: ClassName=U_ASBB_MCP25625 Member=Y802
+Change Component Footprint: Designator=P801 Old Footprint=HDR2X2 New Footprint=HDR1X8
+Change Component Comment : Designator=R801 Old Comment=120 New Comment=4.7k
+Change Component Comment : Designator=P801 Old Comment=Header 2X2 New Comment=Header 8
+Added Component: Designator=P3(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P4(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P5(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P6(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P802(HDR1X8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R2(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Partnumber"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "?"; VariantName = "[No Variations]"
+Added Component: Designator=R3(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Partnumber"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "?"; VariantName = "[No Variations]"
+Added Component: Designator=R4(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Partnumber"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "?"; VariantName = "[No Variations]"
+Added Component: Designator=R5(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Partnumber"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "?"; VariantName = "[No Variations]"
+Added Component: Designator=R6(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Partnumber"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "?"; VariantName = "[No Variations]"
+Added Component: Designator=R7(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Partnumber"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "?"; VariantName = "[No Variations]"
+Added Component: Designator=R8(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Partnumber"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "?"; VariantName = "[No Variations]"
+Added Component: Designator=R9(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Partnumber"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "?"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Pin To Net: NetName=GND Pin=P4-3
+Added Pin To Net: NetName=GND Pin=P5-3
+Added Pin To Net: NetName=GND Pin=P6-3
+Added Pin To Net: NetName=5V Pin=P801-1
+Added Pin To Net: NetName=3.3V Pin=P801-2
+Added Pin To Net: NetName=NetIC901_21 Pin=P801-3
+Added Pin To Net: NetName=NetIC901_19 Pin=P801-4
+Added Pin To Net: NetName=NetIC901_20 Pin=P801-5
+Added Pin To Net: NetName=NetIC901_32 Pin=P801-6
+Added Pin To Net: NetName=NetIC901_4 Pin=P801-7
+Added Pin To Net: NetName=GND Pin=P801-8
+Added Pin To Net: NetName=NetIC901_59 Pin=P802-3
+Added Pin To Net: NetName=NetIC901_60 Pin=P802-4
+Added Pin To Net: NetName=NetIC901_29 Pin=P802-5
+Added Pin To Net: NetName=NetIC901_28 Pin=P802-6
+Added Pin To Net: NetName=NetIC901_53 Pin=P802-7
+Added Pin To Net: NetName=NetIC901_55 Pin=P802-8
+Added Pin To Net: NetName=NetIC601_27 Pin=R2-1
+Added Pin To Net: NetName=NetIC601_28 Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=NetIC601_27 Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=NetIC601_28 Pin=R5-2
+Added Pin To Net: NetName=NetIC601_29 Pin=R6-1
+Added Pin To Net: NetName=NetIC601_1 Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=NetIC601_29 Pin=R8-2
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=NetIC601_1 Pin=R9-2
+Added Pin To Net: NetName=NetIC901_32 Pin=R801-1
+Added Pin To Net: NetName=3.3V Pin=R801-2
+Change Net Name : Old Net Name=NetB501_10 New Net Name=NetIC601_64
+Change Net Name : Old Net Name=NetB501_11 New Net Name=NetIC601_65
+Added Pin To Net: NetName=NetB501_10 Pin=B501-10
+Added Net: Name=NetB501_10
+Added Pin To Net: NetName=NetB501_11 Pin=B501-11
+Added Net: Name=NetB501_11
+Added Pin To Net: NetName=NetIC901_57 Pin=IC901-57
+Added Pin To Net: NetName=NetIC901_57 Pin=P802-1
+Added Net: Name=NetIC901_57
+Added Pin To Net: NetName=NetIC901_58 Pin=IC901-58
+Added Pin To Net: NetName=NetIC901_58 Pin=P802-2
+Added Net: Name=NetIC901_58
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Pin To Net: NetName=NetP3_1 Pin=R2-2
+Added Net: Name=NetP3_1
+Added Pin To Net: NetName=NetP4_1 Pin=P4-1
+Added Pin To Net: NetName=NetP4_1 Pin=R3-2
+Added Net: Name=NetP4_1
+Added Pin To Net: NetName=NetP5_1 Pin=P5-1
+Added Pin To Net: NetName=NetP5_1 Pin=R6-2
+Added Net: Name=NetP5_1
+Added Pin To Net: NetName=NetP6_1 Pin=P6-1
+Added Pin To Net: NetName=NetP6_1 Pin=R7-2
+Added Net: Name=NetP6_1
+Added Class: Name=U_ASBB_ServoIn
+Added Member To Class: ClassName=U_ASBB_MCP25625 Member=Component P802 Header 8
+Added Room: Name=U_ASBB_ServoIn

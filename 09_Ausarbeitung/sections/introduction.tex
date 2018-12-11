@@ -1,0 +1,40 @@
+%% LaTeX2e class for student theses
+%% sections/content.tex
+%% 
+%% Karlsruhe Institute of Technology
+%% Institute for Program Structures and Data Organization
+%% Chair for Software Design and Quality (SDQ)
+%%
+%% Dr.-Ing. Erik Burger
+%% burger@kit.edu
+%%
+%% Version 1.3, 2016-12-29
+
+\chapter{Einleitung}
+\label{ch:Introduction}
+
+\section{Stand der Technik}
+\label{sec:standdertechnik}
+
+\subsection{Sonarboot}
+\label{sec:sonarboot}
+
+Die Idee dieser Arbeit kommt aus der Wasserrettung. 66\% aller Einsätze des DLRG Landesverbands Württemberg im Wasserrettungsdienst sind Personensuchen im Wasser\cite{dlrgwuerttemberg2017}. Für Gewöhnlich schwimmen Taucher dabei einen Bereich mithilfe von Suchmustern ab. Aufgrund vieler Schwebeteilchen im Wasser ist die Sicht von Tauchern oft unter einen Meter begrenzt, was die Suche verlangsamt. Doch bei einem Ertrinkungsunfall sinkt die Überlebenswahrscheinlichkeit in jeder Minute, die ein Mensch unter Wasser ist \cite{teising2009neonatologische, roeggla2001}.
+
+Daher läuft seit einigen Jahren die Ausstattung der DLRG mit Sonargeräten, die auch bei schlechten Bedingungen einen großen Erfassungsbereich haben. Das beschleunigt die Suche nach vermissten Personen wesentlich. Da das Sonar auf Einsatzbooten angebracht ist, vergeht eine Menge Zeit bis zum Beginn der Suche. Der gesamte Slipvorgang dauert mit Anfahrt der Slipstelle bis zu 15 Minuten.
+
+Ein Weg die Zeit bis zum Einsatz des Sonars zu verkürzen, besteht in der Verwendung eines unbemannten Fahrzeugs. Dieses muss lediglich groß genug sein, um das Sonar zu transportieren. Daher kann es direkt an der Einsatzstelle zu Wasser gelassen werden, was wertvolle Minuten spart.
+
+Auf einer Wasserfläche ist das Abfahren eines Suchmusters nur mithilfe eines GPS möglich, weil es keine Anhaltspunkte zur Orientierung gibt. Doch auch mit GPS ist das Fahren entlang des Suchmusters aufgrund von Wind und Strömung nur nach langer Übung zu meistern. Deshalb soll das Sonarboot die Bereiche selbstständig absuchen.
+
+\subsection{SEC-Bike}
+\label{sec:secbike}
+
+Diese Arbeit wird am FZI geschrieben, welches sich im Forschungsbereich Mobilität unter anderem mit Fahrassistenzsystemen beschäftigt. Da Kompetenz in diesem Themenbereich vorhanden ist, werden hier auch Projekte mit autonomen Kleinfahrzeugen gestartet.
+
+Eines dieser Projekte ist das SEC-Bike, welches vom Bundesministerium für Bildung und Forschung beauftragt wurde. Dieses ist ein elektrisch betriebenes Lastenfahrrad, das die Lücke der \glqq Letzten Meile\grqq im innerstädtischen Bereich schließt. Es kann vom Nutzer per Smartphone an einen beliebigen Ort bestellt werden, zu dem es dann autonom fährt\cite{bmbfsecbike2017,fzisecbike2017}.
+
+\section{Ziel der Arbeit}
+\label{sec:zielderarbeit}
+
+Anstatt zwei Systeme zu bauen, die beide autonom fahren, wird nun ein System entwickelt, das für beide Aufgaben verwendet werden kann.

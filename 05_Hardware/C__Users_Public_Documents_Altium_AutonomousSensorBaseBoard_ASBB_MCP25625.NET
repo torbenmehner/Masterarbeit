@@ -1,0 +1,561 @@
+PARTS LIST
+
+LD1086            D2PAK_LD1086(Primary)?
+FireFly_X1_Multi-GNSS_ModuleX-1             B?
+100nF             0603            C?
+100nF             0603            C?
+100µF             SMELK-C         C?
+10µF              SMELK-C         C?
+10µF              SMELK-C         C?
+100µF             SMELK-C         C?
+4.7µF             0603            C?
+4.7µF             0603            C?
+1µF               0603            C?
+100nF             0603            C?
+4.7nF             0603            C?
+100nF             0603            C?
+100nF             0603            C?
+4.7µF             0603            C?
+4.7µF             0603            C?
+100µF             SMELK-A         C?
+100nF             0603            C?
+100nF             0603            C?
+22pF              0603            C?
+22pF              0603            C?
+100nF             0603            C?
+100nF             0603            C?
+100nF             0603            C?
+1µF               0603            C?
+100nF             0603            C?
+1µF               0603            C?
+100nF             0603            C?
+22pF              0603            C?
+22pF              0603            C?
+12pF              0603            C?
+12pF              0603            C?
+100nF             0603            C?
+1µF               0603            C?
+100nF             0603            C?
+100nF             0603            C?
+100nF             0603            C?
+100nF             0603            C?
+100nF             0603            C?
+100nF             0603            C?
+100nF             0603            C?
+4.7µF             0603            C?
+100nF             0603            C?
+4.7µF             0603            C?
+100nF             0603            C?
+22pF              0603            C?
+22pF              0603            C?
+22pF              0603            C?
+22pF              0603            C?
+100nF             0603            C?
+100nF             0603            C?
+100nF             0603            C?
+100nF             0603            C?
+100nF             0603            C?
+100nF             0603            C?
+4.7µF             0603            C?
+100nF             0603            C?
+4.7µF             0603            C?
+1µF               0603            C?
+4.7µF             0603            C?
+4.7µF             0603            C?
+1µF               0603            C?
+100nF             0603            C?
+4.7nF             0603            C?
+100nF             0603            C?
+100nF             0603            C?
+4.7µF             0603            C?
+4.7µF             0603            C?
+?                 SMELK-A         C?
+FM5817-W          SMB             D?
+FM5817-W          SMB             D?
+Green, 3.2 V, 140°WL-SMCW_0603    D?
+Green, 3.2 V, 140°WL-SMCW_0603    D?
+MIC2127A          QFN-MG16_M      IC?
+BRD4163A          80-Pin SiLabs ModuleIC?
+SX1276            Modtronix inAir9IC?
+MIC2127A          QFN-MG16_M      IC?
+PAD_GND           Solder Pad      J?
+PAD_VOUT_VAR      Solder Pad      J?
+CONSMA008         CON-SMA-L       J?
+1.27 mm_SMD_Vertical_20 pin62102021021     J?
+Micro SD Card Connector, Push & Push693071010811    J?
+PAD_SPK_OUTP      Solder Pad      J?
+PAD_SPK_OUTN      Solder Pad      J?
+2.54 mm_SMT_Vertical_8 pin61000821821     J?
+2.54 mm_SMT_Vertical_6 pin61000611921     J?
+1.27 mm_SMD_Vertical_20 pin62102021021     J?
+2.54 mm_SMT_Vertical_4 pin61000411921     J?
+2.54 mm_SMT_Vertical_4 pin61000411921     J?
+2.54 mm_SMT_Vertical_4 pin61000411921     J?
+HPC SPI           61000511921     J?
+Micro USB 2.0 Type B614105150721    J?
+7443551131        WE-HCI_1365_WE-PERML?
+WE 742792514      1812            L?
+WE 742792514      1812            L?
+7443551131        WE-HCI_1365_WE-PERML?
+Header 3          HDR1X3          P?
+Header 3          HDR1X3          P?
+Header 3          HDR1X3          P?
+Header 3          HDR1X3          P?
+Header 3          HDR1X3          P?
+Header 3          HDR1X3          P?
+Header 3          HDR1X3          P?
+Header 3          HDR1X3          P?
+Header 3          HDR1X3          P?
+Header 3          HDR1X3          P?
+Header 3          HDR1X3          P?
+56k               Model 43 TrimmerP?
+Header 3          HDR1X3          P?
+Header 3          HDR1X3          P?
+Header 3          HDR1X3          P?
+IPD180N10N3 G     INF-PG-TO252-3-11_A_NQ?
+IPD180N10N3 G     INF-PG-TO252-3-11_A_NQ?
+NTR5103N          SOT23           Q?
+NTR5103N          SOT23           Q?
+NTR5103N          SOT23           Q?
+NTR5103N          SOT23           Q?
+NTR5103N          SOT23           Q?
+NTR5103N          SOT23           Q?
+NTR5103N          SOT23           Q?
+NTR5103N          SOT23           Q?
+NTR5103N          SOT23           Q?
+IPD180N10N3 G     INF-PG-TO252-3-11_A_NQ?
+IPD180N10N3 G     INF-PG-TO252-3-11_A_NQ?
+36k               0603            R?
+7.5k              0603            R?
+1.2k              0603            R?
+100k              0603            R?
+100k              0603            R?
+1k                0603            R?
+100               0603            R?
+1.3k              0603            R?
+1k                0603            R?
+10k               0603            R?
+10k               0603            R?
+10k               0603            R?
+10k               0603            R?
+10k               0603            R?
+470               0603            R?
+470               0603            R?
+4.7k              0603            R?
+4.7k              0603            R?
+1                 0603            R?
+10k               0603            R?
+10k               0603            R?
+10k               0603            R?
+100               0603            R?
+NP                0603            R?
+100               0603            R?
+120               0603            R?
+120               0603            R?
+4.7k              0603            R?
+4.7k              0603            R?
+4.7k              0603            R?
+4.7k              0603            R?
+4.7k              0603            R?
+4.7k              0603            R?
+4.7k              0603            R?
+4.7k              0603            R?
+4.7k              0603            R?
+4.7k              0603            R?
+4.7k              0603            R?
+4.7k              0603            R?
+3.3k              0603            R?
+2.2k              0603            R?
+4.7k              0603            R?
+4.7k              0603            R?
+3.3k              0603            R?
+2.2k              0603            R?
+4.7k              0603            R?
+4.7k              0603            R?
+3.3k              0603            R?
+2.2k              0603            R?
+4.7k              0603            R?
+4.7k              0603            R?
+270               0603            R?
+270               0603            R?
+36k               0603            R?
+NP                0603            R?
+NP                0603            R?
+100k              0603            R?
+100k              0603            R?
+1k                0603            R?
+100               0603            R?
+1.3k              0603            R?
+4.7k              0603            R?
+4.7k              0603            R?
+4.7k              0603            R?
+SW-DPST           DPST-4          S?
+CY7C65215-32LTXI  CYP-LTX32_N     U?
+BMP388            PQFN50P200X200X80-10NU?
+BNO055            LGA28R50P4X10_380X520X100U?
+EFM32GG280F1024-QFP100ENMR-LQFP100_N  U?
+IC_Maxim_Electronics_MAX98357AETE+T_eecMaxim_Electronics_21-0896_0U?
+MCP25625-E/SS     SOP65P780X200-28NU?
+MCP25625-E/SS     SOP65P780X200-28NU?
+CY7C65215-32LTXI  CYP-LTX32_N     U?
+48MHz             MA-506          X?
+?                 MA-506          X?
+?                 MA-506          X?
+32.768kHz         R38             Y?
+32.768kHz         R38             Y?
+EOS
+NET LIST
+
+NODE     1                $
+    C?         2  IC?       13  P?         2  R?         1  R?         1  R?         2
+NODE     3                $
+    IC?       11  R?         2  R?         2
+NODE     4                $
+    IC?       12  R?         2
+NODE     5                $
+    C?         1  C?         1  IC?        3  L?         1  Q?         2  Q?         3  R?         2
+NODE     6                $
+    C?         1  IC?       15  R?         2
+NODE     7                $
+    C?         1  IC?        8  R?         1  R?         1
+NODE     8                $
+    C?         2  R?         2
+NODE     9                $
+    C?         2  IC?        4
+NODE     10               $
+    IC?        2  R?         1
+NODE     11               $
+    IC?        5  Q?         1
+NODE     12               $
+    IC?        7  Q?         1
+NODE     13               $
+    C?         2  C?         2  J?         1  U?        19
+NODE     14               $
+    C?         2  U?        16
+NODE     15               $
+    D?         1  U?        25
+NODE     16               $
+    D?         1  U?        26
+NODE     17               $
+    D?         2  R?         1
+NODE     18               $
+    D?         2  R?         1
+NODE     19               $
+    J?         2  U?        15
+NODE     20               $
+    J?         3  U?        14
+NODENAME US2_TRIG_5V      $
+    J?         2  Q?         3  R?         1
+NODENAME US2_ECHO_5V      $
+    J?         3  R?         2
+NODENAME US1_TRIG_5V      $
+    J?         2  Q?         3  R?         1
+NODENAME US1_ECHO_5V      $
+    J?         3  R?         2
+NODENAME US0_TRIG_5V      $
+    J?         2  Q?         3  R?         1
+NODENAME US0_ECHO_5V      $
+    J?         3  R?         2
+NODE     50               $
+    P?         3  Q?         3  R?         1
+NODE     51               $
+    P?         3  Q?         3  R?         1
+NODE     52               $
+    P?         3  Q?         3  R?         1
+NODE     53               $
+    P?         3  Q?         3  R?         1
+NODE     54               $
+    P?         3  Q?         3  R?         1
+NODE     55               $
+    P?         3  Q?         3  R?         1
+NODENAME MG_DBG_TRACED3   $
+    IC?       12  J?        20
+NODENAME MG_DBG_TRACED2   $
+    IC?       11  J?        18
+NODENAME MG_DBG_TRACED1   $
+    IC?       10  J?        16
+NODENAME MG_DBG_TRACED0   $
+    IC?        9  J?        14
+NODENAME MG_DBG_TRACECLK  $
+    IC?        8  J?        12
+NODENAME MG_DBG_TDI       $
+    IC?       16  J?         8
+NODENAME MG_DBG_SWO       $
+    IC?       15  J?         6
+NODENAME MG_DBG_SWDIO     $
+    IC?       13  J?         2
+NODENAME MG_DBG_SWCLK     $
+    IC?       14  J?         4
+NODENAME MG_DBG_#RESET    $
+    IC?       17  J?        10
+NODENAME CAN7_CS          $
+    IC?       55
+NODENAME CAN6_CS          $
+    IC?       53
+NODENAME CAN5_CS          $
+    IC?       28
+NODENAME CAN4_CS          $
+    IC?       29
+NODENAME CAN3_CS          $
+    IC?       60
+NODENAME CAN2_CS          $
+    IC?       59
+NODENAME CAN1_CS          $
+    IC?       58
+NODENAME CAN0_CS          $
+    IC?       57
+NODENAME TX1              $
+    U?        20  U?        24
+NODENAME TX0              $
+    U?        20  U?        24
+NODENAME RX1              $
+    U?        21  U?        28
+NODENAME RX0              $
+    U?        21  U?        28
+NODE     111              $
+    C?         1  U?         8  X?         1
+NODE     112              $
+    C?         1  U?         9  X?         4
+NODE     113              $
+    C?         1  U?         8  X?         1
+NODE     114              $
+    C?         1  U?         9  X?         4
+NODENAME CAN7_CS          $
+    J?         8
+NODENAME CAN6_CS          $
+    J?         6
+NODENAME CAN5_CS          $
+    J?         4
+NODENAME CAN4_CS          $
+    J?         2
+NODENAME CAN3_CS          $
+    J?         7
+NODENAME CAN2_CS          $
+    J?         5
+NODENAME CAN1_CS          $
+    J?         3  U?        17
+NODENAME CAN0_CS          $
+    J?         1  U?        17
+NODE     135              $
+    J?         1  U?         9
+NODE     136              $
+    J?         1  U?        10
+NODE     137              $
+    R?         1  R?         2  U?         2
+NODENAME TRACED3          $
+    J?        20  U?        51
+NODENAME TRACED2          $
+    J?        18  U?        50
+NODENAME TRACED1          $
+    J?        16  U?         4
+NODENAME TRACED0          $
+    J?        14  U?        52
+NODENAME TRACECLK         $
+    J?        12  U?        53
+NODENAME TDI              $
+    J?         8
+NODE     148              $
+    C?         1  U?        59
+NODE     149              $
+    C?         1  C?         1  R?         2  U?        41  U?        45
+NODE     150              $
+    L?         2  R?         1
+NODE     188              $
+    R?         2  S?         1
+NODE     190              $
+    J?         1  R?         1
+NODE     191              $
+    J?         8  R?         1
+NODE     195              $
+    P?         2  U?        47
+NODE     196              $
+    P?         2  U?        46
+NODENAME LF_XTAL1         $
+    C?         1  U?        25  Y?         2
+NODENAME LF_XTAL0         $
+    C?         1  U?        24  Y?         1
+NODENAME HF_XTAL1         $
+    C?         1  U?        43  X?         4
+NODENAME HF_XTAL0         $
+    C?         1  U?        42  X?         1
+NODENAME GG_US0_CS1       $
+    J?         2  R?         1  U?        98
+NODENAME DBG_SWO          $
+    J?         6  U?        78
+NODENAME DBG_SWDIO        $
+    J?         2  U?        77
+NODENAME DBG_SWCLK        $
+    J?         4  U?        76
+NODENAME DBG_nRESET       $
+    C?         1  J?        10  S?         2  U?        36
+NODE     212              $
+    B?         7  B?         8  C?         2  C?         2  L?         2  R?         2
+NODE     213              $
+    B?         2  J?         1
+NODE     217              $
+    B?        16  R?         1
+NODE     218              $
+    B?        17  R?         1
+NODE     221              $
+    C?         1  U?        26  Y?         2
+NODE     222              $
+    C?         1  U?        27  Y?         1
+NODE     223              $
+    C?         2  U?         9
+NODE     224              $
+    R?         2  U?         4
+NODE     225              $
+    R?         2  U?         5
+NODE     226              $
+    R?         2  U?         6
+NODE     227              $
+    R?         2  U?        11
+NODE     228              $
+    R?         1  U?         6
+NODE     229              $
+    C?         1  IC?       15  R?         2
+NODE     230              $
+    IC?       12  R?         2
+NODE     231              $
+    ?        VIN  C?         1  C?         1  C?         2  D?         1  D?         1
+NODE     232              $
+    C?         1  C?         1  IC?        3  L?         1  Q?         2  Q?         3  R?         2
+NODE     233              $
+    C?         1  IC?        8  R?         1  R?         1
+NODE     234              $
+    C?         2  R?         2
+NODE     235              $
+    C?         2  IC?        4
+NODE     236              $
+    C?         2  IC?       13  R?         1  R?         1  R?         2
+NODE     238              $
+    IC?        2  R?         1
+NODE     239              $
+    IC?        5  Q?         1
+NODE     240              $
+    IC?        7  Q?         1
+NODE     241              $
+    IC?       11  R?         2  R?         2
+NODENAME 5V_USB           $
+    D?         2
+NODENAME 5V               $
+    C?         1  C?         1  C?         1  C?         1  C?         2  C?         2  C?         2  C?         2  C?         2  D?         2  IC?       37  J?         1  J?         1  J?         1  J?         1  L?         2  P?         1  P?         1  P?         1  P?         1  P?         1  P?         1  R?         2  R?         2  R?         2  R?         2  R?         2  R?         2  R?         2  R?         2  R?         2  R?         2  R?         2  U?         7  U?         8  U?        27  U?        27
+NODENAME 5V               $
+    C?         1  IC?        9
+NODENAME 3.3V             $
+    ?       VOUT  C?         1  C?         1  C?         1  C?         1  C?         1  C?         1  C?         1  C?         1  C?         1  C?         2  C?         2  C?         2  C?         2  C?         2  C?         2  C?         2  C?         2  C?         2  C?         2  IC?        1  IC?        8  IC?       13  IC?       42  J?         1  J?         1  J?         2  J?         4  L?         1  L?         1  P?         1  P?         1  P?         1  P?         1  P?         1  Q?         1  Q?         1  Q?         1  Q?         1  Q?         1  Q?         1  Q?         1  Q?         1  Q?         1  R?         1  R?         1  R?         2  R?         2  R?         2  R?         2  R?         2  R?         2  R?         2  R?         2  R?         2  R?         2  R?         2  R?         2  R?         2  R?         2  R?         2  R?         2  R?         2  R?         2  R?         2  R?         2  U?         1  U?         1  U?         1  U?         1  U?         3  U?         8  U?        10  U?        17  U?        19  U?        19  U?        28  U?        31  U?        44  U?        57  U?        82
+NODE     246              $
+    R?         2  U?         4
+NODE     247              $
+    R?         2  U?         4
+NODE     248              $
+    R?         1  U?         3
+NODE     249              $
+    R?         1  U?         3
+NODE     250              $
+    IC?       52  U?        13
+NODE     251              $
+    IC?       54  U?        13
+NODE     252              $
+    IC?       45  Q?         2  R?         1
+NODE     253              $
+    IC?       47  Q?         2  R?         1
+NODE     254              $
+    IC?       49  Q?         2  R?         1
+NODE     255              $
+    IC?       51  Q?         2  R?         1
+NODE     256              $
+    IC?       31  Q?         2  R?         1
+NODE     257              $
+    IC?       30  Q?         2  R?         1
+NODE     258              $
+    IC?       32  U?        18  U?        18
+NODE     259              $
+    IC?       50  U?         5
+NODE     260              $
+    IC?        4  U?         5
+NODE     261              $
+    B?        11  R?         1  U?         2  U?         2  U?        19
+NODE     262              $
+    B?        10  R?         1  U?         1  U?         4  U?        20
+NODE     263              $
+    U?        30  U?        60
+NODE     264              $
+    U?         2  U?        61
+NODE     265              $
+    R?         2  U?        73
+NODE     266              $
+    R?         2  U?        72
+NODENAME GG_US0_CLK       $
+    IC?       12  J?         5  U?        94
+NODE     268              $
+    IC?        2  U?        97
+NODENAME GG_US0_RX        $
+    IC?       11  J?         7  U?        95
+NODENAME GG_US0_TX        $
+    IC?       10  J?         3  U?        96
+NODE     271              $
+    U?        16  U?        48
+NODE     272              $
+    U?        14  U?        49
+NODE     274              $
+    U?         1  U?        18
+NODENAME HPC_CS0          $
+    J?         2  P?         1  U?        23
+NODENAME HPC_MOSI         $
+    J?         3  P?         1  P?         3  U?        21
+NODENAME HPC_MISO         $
+    J?         4  P?         1  P?         3  U?        20
+NODE     278              $
+    B?        13  U?        26
+NODE     279              $
+    U?         7  U?        14
+NODE     280              $
+    U?         6  U?         7
+NODE     281              $
+    IC?       33  U?         6
+NODE     282              $
+    IC?       34  U?         5
+NODENAME HPC_SCK          $
+    IC?       46  J?         5  U?        22
+NODENAME HPC_CS1          $
+    IC?       48  J?         1  P?         2
+NODE     285              $
+    IC?       44  P?         2
+NODE     286              $
+    IC?       18  P?         2
+NODE     287              $
+    IC?       20  J?         5  U?        16  U?        16
+NODE     288              $
+    IC?       19  J?         4  U?        15  U?        15
+NODENAME VOUT_VAR         $
+    C?         1  C?         1  C?         1  C?         1  IC?        9  J?         1  L?         2  P?         1  R?         2
+NODE     290              $
+    B?        19  R?         1  U?        27
+NODE     291              $
+    IC?        4  U?        28
+NODE     292              $
+    IC?       21  J?         3  U?        14  U?        14
+NODE     293              $
+    R?         1  R?         2  U?        84
+NODE     294              $
+    R?         1  R?         2  U?        85
+NODE     295              $
+    R?         1  R?         2  U?        86
+NODE     296              $
+    P?         2  R?         1  U?         9
+NODE     297              $
+    P?         2  R?         1  U?        10
+NODE     298              $
+    P?         2  R?         1  U?        11
+NODE     299              $
+    Q?         2  R?         1  U?        12
+NODE     300              $
+    Q?         2  R?         1  U?        13
+NODE     301              $
+    Q?         2  R?         1  U?        14
+NODENAME V_IN             $
+    C?         2  C?         2  C?         2  C?         2  IC?       16  IC?       16  Q?         2  Q?         2  R?         1  R?         1
+NODENAME GND              $
+    ?        GND  B?         1  B?         3  B?         4  B?         5  B?         6  B?         9  C?         1  C?         1  C?         1  C?         1  C?         1  C?         1  C?         1  C?         1  C?         1  C?         1  C?         1  C?         1  C?         1  C?         1  C?         1  C?         1  C?         1  C?         1  C?         1  C?         1  C?         1  C?         1  C?         1  C?         1  C?         1  C?         1  C?         2  C?         2  C?         2  C?         2  C?         2  C?         2  C?         2  C?         2  C?         2  C?         2  C?         2  C?         2  C?         2  C?         2  C?         2  C?         2  C?         2  C?         2  C?         2  C?         2  C?         2  C?         2  C?         2  C?         2  C?         2  C?         2  C?         2  C?         2  C?         2  C?         2  C?         2  C?         2  C?         2  C?         2  C?         2  C?         2  IC?        1  IC?        2  IC?       38  IC?       41  IC?       79  J?         1  J?         2  J?         3  J?         3  J?         3  J?         4  J?         4  J?         4  J?         4  J?         5  J?         5  J?         5  J?         5  J?         6  J?         6  J?        15  J?        15  J?        17  J?        17  J?        19  J?        19  J?        S1  J?        S2  P?         2  P?         2  P?         2  P?         2  P?         2  P?         2  P?         3  P?         3  P?         3  P?         3  P?         3  P?         3  Q?         3  Q?         3  R?         1  R?         1  R?         1  R?         1  R?         1  R?         1  R?         1  R?         1  R?         1  R?         1  R?         1  U?         2  U?         3  U?         3  U?         4  U?         4  U?         5  U?         8  U?         9  U?        10  U?        10  U?        10  U?        11  U?        15  U?        15  U?        16  U?        16  U?        17  U?        17  U?        17  U?        18  U?        20  U?        24  U?        25  U?        26  U?        26  U?        32  U?        33  U?        58  U?        83
+EOS
